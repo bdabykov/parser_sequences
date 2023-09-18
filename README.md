@@ -1,1 +1,1 @@
-# parser_sequences
+This code reads data from two input files that can be text files with amino acid and their respective CDS sequences, combines them with tabs as separators, and writes the combined data with some additional tokens to an output file. The processed data in the output file will have [CLS] at the beginning and [SEP] at the end of each line.
